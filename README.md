@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **React**
-
 - 📫 How to reach me **hansanieneththasinghe@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
